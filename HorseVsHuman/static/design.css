@@ -1,0 +1,35 @@
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.zoom:hover {
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+}
+
+.fa-facebook {
+  background: #FFFFFF;
+  color: #000000;
+}
+
+.fa-twitter {
+  background: #FFFFFF;
+  color: #000000;
+}
+
+.fa-google {
+  background: #FFFFFF;
+  color: #000000;
+}
+
+.fa-linkedin {
+  background: #FFFFFF;
+  color: #000000;
+}
